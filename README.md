@@ -26,17 +26,16 @@ To create a responsive and visually appealing website for a dental clinic.
 ## 🖥 Desktop Screens
 
 ### Homepage
-<img width="1731" height="4517" alt="homepage" src="https://github.com/user-attachments/assets/abce600d-eab5-4aa7-817b-ecd8ada21bb6" />
+![Homepage](homepage.jpeg)
 
 ### Services
-<img width="1731" height="6090" alt="servicepage" src="https://github.com/user-attachments/assets/7bb447b5-956b-46af-9b4c-8d07959b6433" />
+![Services](servicepage.jpeg)
 
 ### About
-<img width="1731" height="3891" alt="aboutpage" src="https://github.com/user-attachments/assets/37b27a8d-e79d-4948-8612-dd2e63bc3f4b" />
+![About](aboutpage.jpeg)
 
 ### Contact
-<img width="1731" height="1987" alt="contactpage" src="https://github.com/user-attachments/assets/b5e556af-8553-4a7e-a0ce-42b57f86366b" />
-
+![Contact](contactpage.jpeg)
 
 ## 🔗 Project Link
 Live Website: (https://bask-kindle-31260731.figma.site/)
