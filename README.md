@@ -25,15 +25,18 @@ To create a responsive and visually appealing website for a dental clinic.
 
 ## 🖥 Desktop Screens
 
-![Homepage](<img width="1731" height="4517" alt="homepage" src="https://github.com/user-attachments/assets/9057c898-3bbd-49d9-bcb9-e4c3db444559" />
-)
+### Homepage
+<img width="1731" height="4517" alt="homepage" src="https://github.com/user-attachments/assets/abce600d-eab5-4aa7-817b-ecd8ada21bb6" />
 
+### Services
 ![Services](<img width="1731" height="6090" alt="servicepage" src="https://github.com/user-attachments/assets/5d6ce7ed-ae32-4c15-ac18-36fa28f66980" />
 )
 
+### About
 ![About](<img width="1731" height="3891" alt="aboutpage" src="https://github.com/user-attachments/assets/9e20ff15-c3a9-4c02-a046-c8e7da9abf50" />
 )
 
+### Contact
 ![Contact](<img width="1731" height="1987" alt="contactpage" src="https://github.com/user-attachments/assets/cd76b5b2-eccb-48a7-af6e-b12eb7330acc" />
 )
 
