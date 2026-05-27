@@ -29,7 +29,7 @@ To create a responsive and visually appealing website for a dental clinic.
 ![Homepage](home.jpeg)
 
 ### Services
-![Services](service.jpeg)
+![Services](services.jpeg)
 
 ### About
 ![About](about.jpeg)
