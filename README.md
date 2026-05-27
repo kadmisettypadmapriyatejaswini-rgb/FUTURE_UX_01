@@ -26,16 +26,16 @@ To create a responsive and visually appealing website for a dental clinic.
 ## 🖥 Desktop Screens
 
 ### Homepage
-![Homepage](homepage.jpeg)
+![Homepage](home.jpeg)
 
 ### Services
-![Services](servicepage.jpeg)
+![Services](service.jpeg)
 
 ### About
-![About](aboutpage.jpeg)
+![About](about.jpeg)
 
 ### Contact
-![Contact](contactpage.jpeg)
+![Contact](contact.jpeg)
 
 ## 🔗 Project Link
 Live Website: (https://bask-kindle-31260731.figma.site/)
